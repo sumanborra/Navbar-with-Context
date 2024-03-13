@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.navbar-container {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+.navbar-container-background {
+  padding: 30px;
+  background-color: #ffffff;
+}
+.dark-mode-container {
+  background-color: #333333;
+  border: 0px;
+}
+.dark {
+  background-color: #333333;
+}
+.text-container-navbar {
+  display: flex;
+  list-style-type: none;
+}
+.website-logo {
+  height: 50px;
+}
+.link-style {
+  font-family: 'Roboto';
+  font-size: 24px;
+  text-decoration: none;
+}
+.text-style-nav-bar {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #1e293b;
+  font-weight: 600;
+  margin-right: 30px;
+}
+.dark-mode-text {
+  color: #ffffff;
+}
+.buttn {
+  border: none;
+  background-color: transparent;
+}
+.horizontal-line {
+  width: 100%;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}

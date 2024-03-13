@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.home-container {
+  height: 90vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-image-style {
+  height: 300px;
+}
+.heading-text-home-page {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  color: #171f46;
+}
+.darkmode-home-background {
+  background-color: #000000;
+}
+.text-home-dark {
+  color: #ffffff;
+}
+.para-text-home-page {
+  font-family: 'Roboto';
+  font-size: 26px;
+
+  color: #64748b;
+}
+.para-home-dark{
+  color: #dcdcdc;
+}
